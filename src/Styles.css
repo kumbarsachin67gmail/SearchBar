@@ -1,0 +1,81 @@
+:root {
+    --green: #3ba77b;
+    --light-green: #d8ede4;
+    --grey: #989898;
+    --light-grey: #dddddd;
+    --black: #6c6c6c;
+    --white: #ffffff;
+    --background: #fafafa;
+    --red: #BD4931;
+    --yellow: #FFA700;
+}
+* {
+    font-family: 'Montserrat', sans-serif;
+    /* font-weight: 400; */
+    outline: 0;
+    margin: 0;
+    padding: 0;
+    /* font-size: 16px; */  
+    line-height: 0.5;
+    letter-spacing: 0.5px;
+}
+
+.container {
+     display: flow-root;
+
+}
+
+.boxWid{
+    position: sticky;
+     top: 0 ;
+    margin:auto;
+    padding-left: 10px;
+    width:100%;
+    z-index:100;
+
+}
+
+body {
+    background: var(--background);
+}
+.App {
+    font-family: sans-serif;
+  }
+.contr
+{
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin: auto;
+  margin-top: 100px;
+    width:400px;
+    height: 500px;
+    overflow: scroll;
+    border: 3px solid black;
+    /* position: relative; */
+}
+
+.card{
+    width: 100%;
+    margin: 0px!important;
+}
+.card-block:hover{
+    background:rgb(241, 230, 208);
+
+}
+input#search {
+    background-image: url(https://www.computerhope.com/jargon/s/search-icon.gif);
+    background-repeat: no-repeat;
+    text-indent: 20px;
+}
+
+input[type=text]{  
+    width: 100%;  
+    padding: 12px 12px;  
+    margin: 0px 0;  
+    display: inline-block;  
+    border: 1px solid #ccc;  
+    box-sizing: border-box;  
+}
+/* .input-icons i { 
+    position: absolute; 
+}  */
