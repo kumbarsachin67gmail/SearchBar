@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SearchBar/static/css/main.712df580.chunk.css",
+    "main.js": "/SearchBar/static/js/main.c9bff656.chunk.js",
+    "main.js.map": "/SearchBar/static/js/main.c9bff656.chunk.js.map",
+    "runtime-main.js": "/SearchBar/static/js/runtime-main.119fc4fb.js",
+    "runtime-main.js.map": "/SearchBar/static/js/runtime-main.119fc4fb.js.map",
+    "static/js/2.251ed680.chunk.js": "/SearchBar/static/js/2.251ed680.chunk.js",
+    "static/js/2.251ed680.chunk.js.map": "/SearchBar/static/js/2.251ed680.chunk.js.map",
+    "index.html": "/SearchBar/index.html",
+    "precache-manifest.8cd6e770b8463435c6b696ccd56f7e25.js": "/SearchBar/precache-manifest.8cd6e770b8463435c6b696ccd56f7e25.js",
+    "service-worker.js": "/SearchBar/service-worker.js",
+    "static/css/main.712df580.chunk.css.map": "/SearchBar/static/css/main.712df580.chunk.css.map",
+    "static/js/2.251ed680.chunk.js.LICENSE.txt": "/SearchBar/static/js/2.251ed680.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.119fc4fb.js",
+    "static/js/2.251ed680.chunk.js",
+    "static/css/main.712df580.chunk.css",
+    "static/js/main.c9bff656.chunk.js"
+  ]
+}
